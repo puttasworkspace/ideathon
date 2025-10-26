@@ -25,7 +25,9 @@ This project includes code implementations, reference materials, and a conceptua
    ```bash
    git clone https://github.com/yourusername/NOVA-Adaptive-Learning.git
    cd NOVA-Adaptive-Learning
-2.python NOVA_Adaptive_Learning_Optimization.py
-3.python NOVA_OOP_Adaptive_Classifier.py
+2.pip install python
+  pip install numpy pandas scikit-learn matplotlib
+3.python NOVA_Adaptive_Learning_Optimization.py
+4.python NOVA_OOP_Adaptive_Classifier.py
 
 
